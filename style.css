@@ -10,6 +10,7 @@ h1{
 }
 #description{
     font-size: 40px;
+    font-weight: 700;
     text-align: justify;
 }
 .half-width{
@@ -29,4 +30,12 @@ h1{
 }
 section{
     height: 500px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#3c7b1f,green);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
 }
